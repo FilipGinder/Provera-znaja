@@ -7,6 +7,6 @@
 
 
 
-<h1>Filip Ginder</h1>
+<h1>Filip Ginder & Suzana</h1>
 </body>
 </html>
